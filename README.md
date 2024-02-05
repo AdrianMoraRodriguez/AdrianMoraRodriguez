@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrián Mora Rodríguez</h1>
 <h3 align="center">A passionate computer engineering studying at the University of La Laguna</h3>
+![gitHub](https://github.com/AdrianMoraRodriguez/AdrianMoraRodriguez/assets/91552830/6f6eae09-d9d8-4754-8ced-9d9b38654f8b)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmorarodriguez" alt="adrianmorarodriguez" /></a> </p>
-🔭 I’m currently working on Studying
+🔭 I’m currently Studying
 🌱 I’m currently learning JavaScript and TypeScript
 👨‍💻 I study in ULL
 💬 Ask me about C++, Python, MIPS, VHDL, Verilog, R, Node.js, Prolog,...
