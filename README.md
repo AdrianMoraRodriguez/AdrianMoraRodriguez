@@ -1,4 +1,4 @@
-<p align="center">![programing](https://github.com/AdrianMoraRodriguez/AdrianMoraRodriguez/assets/91552830/96f8430a-c0f1-4bac-9d7e-e7911e71a0a5)</p>
+![programing](https://github.com/AdrianMoraRodriguez/AdrianMoraRodriguez/assets/91552830/96f8430a-c0f1-4bac-9d7e-e7911e71a0a5)
 <h1 align="center">Hi 👋, I'm Adrián Mora Rodríguez</h1>
 <h3 align="center">A passionate computer engineering studying at the University of La Laguna</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmorarodriguez" alt="adrianmorarodriguez" /></a> </p>
