@@ -2,12 +2,15 @@
 <h1 align="center">Hi 👋, I'm Adrián Mora Rodríguez</h1>
 <h3 align="center">A passionate computer engineering studying at the University of La Laguna</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmorarodriguez" alt="adrianmorarodriguez" /></a> </p>
-🔭 I’m currently Studying  
-🌱 I’m currently learning Babel  
+
+🌱 I’m currently learning Babel and Rust  
+
 👨‍💻 I study in ULL  
+
 💬 Ask me about C++, Python, MIPS, VHDL, Verilog, R, Node.js, Prolog,...  
+
 📫 How to reach me moradrian03@gmail.com  
-⚡ Fun fact Wanted to be a video game designer, then I wanted to be an AI researcher, now I´m interested in language procesors  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adriwner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adriwner" height="30" width="40" /></a>
