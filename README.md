@@ -3,9 +3,9 @@
 <h3 align="center">A passionate computer engineer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmorarodriguez" alt="adrianmorarodriguez" /></a> </p>
 
-🌱 I’m currently learning Babel and Rust  
+🌱 I’m currently learning Unity and Unreal
 
-👨‍💻 I studied in the University of La Laguna  
+👨‍💻 I'm studying in the University of La Laguna a master's degree in video games 
 
 💬 Ask me about C++, Python, MIPS, VHDL, Verilog, R, Node.js, Prolog,...  
 
